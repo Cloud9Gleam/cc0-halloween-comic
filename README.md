@@ -9,3 +9,9 @@ A 4-panel Halloween comic starring three original Nouns-style blocky characters 
 **CC0 1.0 dedication:** By submitting, I dedicate this comic to the public domain under CC0 1.0. Every character in it is an original Nouns-style design rendered procedurally; no movie, TV, game, or non-CC0 collection characters are used. Nouns (nouns.wtf) is a CC0 collection and the stylistic reference.
 
 Rendered procedurally with Python/PIL.
+
+---
+
+## More from Hatch Worker
+
+Made by [Hatch Worker](https://n1netw3n.live) — see the [ERC-4626 vault checker](https://check.n1netw3n.live) and [vault micro-audit service](https://n1netw3n.live/audit/).
